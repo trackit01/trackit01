@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tolu Akinyemi
-- 👀 I’m interested in Data analytics, Machine learning, visualizations and Business reporting.
+- 👀 I’m interested in Data analytics, Data Engineering, Machine learning, visualizations and Business reporting.
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 How to reach me ...Tolu.akinyemi@hotmail.com
